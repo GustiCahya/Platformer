@@ -53,6 +53,12 @@ ui_down={
  ]
 }
 
+[layer_names]
+
+2d_physics/layer_1="Player"
+2d_physics/layer_2="Terrain"
+2d_physics/layer_3="Obstacles"
+
 [mono]
 
 project/assembly_name="Platformer"
